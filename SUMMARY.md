@@ -2,4 +2,5 @@
 
 * [Call Stack](README.md)
 * [Primitive Types](primitive-types.md)
+* [Type Coercion](type-coercion.md)
 
